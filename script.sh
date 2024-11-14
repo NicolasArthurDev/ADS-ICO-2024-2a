@@ -1,3 +1,5 @@
 #! /bin/bash
 NICOLASSSS
-date
+aonde fica o h em chorhinthianhs?
+tree
+
